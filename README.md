@@ -1,2 +1,2 @@
-# ftpbf
-ftp Bruteforcer
+# ftp-brute
+### ftp Brute force
